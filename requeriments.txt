@@ -1,0 +1,7 @@
+nltk
+gensim
+scikit-learn
+tensorflow
+praw
+pandas
+numpy
